@@ -26,13 +26,13 @@ Make sure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.co
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/sehaj23/investment-calculator.git
+    git clone https://github.com/sehaj23/task-management
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd investment-calculator-react
+    cd task-management
     ```
 
 3. Install dependencies:
